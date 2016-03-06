@@ -1,0 +1,7 @@
+#IntelliJ
+.idea
+.idea/workspace.xml
+*.iml
+
+node_modules
+public/lib/bower_components
